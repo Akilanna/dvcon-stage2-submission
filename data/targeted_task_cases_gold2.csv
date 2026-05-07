@@ -1,0 +1,113 @@
+image_path,task_id,expected_classes,split
+data/coco/train2014/COCO_train2014_000000576993.jpg,0,dining table,train
+data/coco/train2014/COCO_train2014_000000528892.jpg,0,chair,train
+data/coco/train2014/COCO_train2014_000000179570.jpg,0,chair,train
+data/coco/train2014/COCO_train2014_000000403798.jpg,0,chair,train
+data/coco/train2014/COCO_train2014_000000393909.jpg,0,couch,train
+data/coco/train2014/COCO_train2014_000000399181.jpg,0,chair,train
+data/coco/train2014/COCO_train2014_000000310390.jpg,0,dining table,train
+data/coco/train2014/COCO_train2014_000000534690.jpg,0,couch,train
+data/coco/train2014/COCO_train2014_000000528892.jpg,1,chair,train
+data/coco/train2014/COCO_train2014_000000069383.jpg,1,chair,train
+data/coco/train2014/COCO_train2014_000000333688.jpg,1,chair,train
+data/coco/train2014/COCO_train2014_000000028253.jpg,1,bed,train
+data/coco/train2014/COCO_train2014_000000403798.jpg,1,chair|couch,train
+data/coco/train2014/COCO_train2014_000000393909.jpg,1,couch,train
+data/coco/train2014/COCO_train2014_000000439214.jpg,1,couch,train
+data/coco/train2014/COCO_train2014_000000050323.jpg,1,chair|couch,train
+data/coco/train2014/COCO_train2014_000000050518.jpg,2,cup,train
+data/coco/train2014/COCO_train2014_000000261664.jpg,2,bowl,train
+data/coco/train2014/COCO_train2014_000000270102.jpg,2,cup,train
+data/coco/train2014/COCO_train2014_000000281764.jpg,2,wine glass,train
+data/coco/train2014/COCO_train2014_000000529879.jpg,2,bottle,train
+data/coco/train2014/COCO_train2014_000000568788.jpg,2,bowl,train
+data/coco/train2014/COCO_train2014_000000403547.jpg,2,cup,train
+data/coco/train2014/COCO_train2014_000000286425.jpg,2,cup,train
+data/coco/train2014/COCO_train2014_000000024002.jpg,3,hair drier,train
+data/coco/train2014/COCO_train2014_000000526458.jpg,3,surfboard,train
+data/coco/train2014/COCO_train2014_000000550540.jpg,3,frisbee,train
+data/coco/train2014/COCO_train2014_000000423081.jpg,3,surfboard,train
+data/coco/train2014/COCO_train2014_000000398674.jpg,3,frisbee,train
+data/coco/train2014/COCO_train2014_000000459111.jpg,3,frisbee,train
+data/coco/train2014/COCO_train2014_000000264526.jpg,3,skis,train
+data/coco/train2014/COCO_train2014_000000202807.jpg,3,frisbee,train
+data/coco/train2014/COCO_train2014_000000316170.jpg,4,cup,train
+data/coco/train2014/COCO_train2014_000000010046.jpg,4,bowl,train
+data/coco/train2014/COCO_train2014_000000111131.jpg,4,bowl,train
+data/coco/train2014/COCO_train2014_000000311301.jpg,4,cup,train
+data/coco/train2014/COCO_train2014_000000023917.jpg,4,bowl,train
+data/coco/train2014/COCO_train2014_000000261664.jpg,4,bowl,train
+data/coco/train2014/COCO_train2014_000000281764.jpg,4,wine glass,train
+data/coco/train2014/COCO_train2014_000000194820.jpg,4,bottle,train
+data/coco/train2014/COCO_train2014_000000329623.jpg,5,knife,train
+data/coco/train2014/COCO_train2014_000000257615.jpg,5,cup,train
+data/coco/train2014/COCO_train2014_000000495077.jpg,5,knife,train
+data/coco/train2014/COCO_train2014_000000581668.jpg,5,fork,train
+data/coco/train2014/COCO_train2014_000000466519.jpg,5,spoon,train
+data/coco/train2014/COCO_train2014_000000206280.jpg,5,fork,train
+data/coco/train2014/COCO_train2014_000000406716.jpg,5,bottle,train
+data/coco/train2014/COCO_train2014_000000240902.jpg,5,bottle,train
+data/coco/train2014/COCO_train2014_000000048319.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000267798.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000526458.jpg,6,surfboard,train
+data/coco/train2014/COCO_train2014_000000444350.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000358534.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000573873.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000459111.jpg,6,frisbee,train
+data/coco/train2014/COCO_train2014_000000076937.jpg,6,skateboard,train
+data/coco/train2014/COCO_train2014_000000250922.jpg,7,dining table,train
+data/coco/train2014/COCO_train2014_000000325936.jpg,7,chair,train
+data/coco/train2014/COCO_train2014_000000357076.jpg,7,chair,train
+data/coco/train2014/COCO_train2014_000000026713.jpg,7,bed,train
+data/coco/train2014/COCO_train2014_000000108606.jpg,7,chair,train
+data/coco/train2014/COCO_train2014_000000394713.jpg,7,bench,train
+data/coco/train2014/COCO_train2014_000000383737.jpg,7,chair,train
+data/coco/train2014/COCO_train2014_000000067057.jpg,7,chair,train
+data/coco/train2014/COCO_train2014_000000495875.jpg,8,fork|spoon,train
+data/coco/train2014/COCO_train2014_000000478410.jpg,8,fork|knife,train
+data/coco/train2014/COCO_train2014_000000333407.jpg,8,hair drier,train
+data/coco/train2014/COCO_train2014_000000355603.jpg,8,spoon,train
+data/coco/train2014/COCO_train2014_000000417766.jpg,8,knife,train
+data/coco/train2014/COCO_train2014_000000140700.jpg,8,vase,train
+data/coco/train2014/COCO_train2014_000000355779.jpg,8,knife,train
+data/coco/train2014/COCO_train2014_000000410663.jpg,8,hair drier,train
+data/coco/train2014/COCO_train2014_000000050518.jpg,9,cup,train
+data/coco/train2014/COCO_train2014_000000568393.jpg,9,cup,train
+data/coco/train2014/COCO_train2014_000000374661.jpg,9,cup,train
+data/coco/train2014/COCO_train2014_000000097914.jpg,9,wine glass,train
+data/coco/train2014/COCO_train2014_000000009539.jpg,9,cup,train
+data/coco/train2014/COCO_train2014_000000038353.jpg,9,cup,train
+data/coco/train2014/COCO_train2014_000000281764.jpg,9,wine glass,train
+data/coco/train2014/COCO_train2014_000000034356.jpg,9,bowl,train
+data/coco/train2014/COCO_train2014_000000050518.jpg,10,cup,train
+data/coco/train2014/COCO_train2014_000000528892.jpg,10,fork,train
+data/coco/train2014/COCO_train2014_000000185623.jpg,10,bottle,train
+data/coco/train2014/COCO_train2014_000000339295.jpg,10,spoon,train
+data/coco/train2014/COCO_train2014_000000028253.jpg,10,cup,train
+data/coco/train2014/COCO_train2014_000000071264.jpg,10,cup,train
+data/coco/train2014/COCO_train2014_000000052183.jpg,10,spoon,train
+data/coco/train2014/COCO_train2014_000000261664.jpg,10,bowl,train
+data/coco/train2014/COCO_train2014_000000197739.jpg,11,fork,train
+data/coco/train2014/COCO_train2014_000000010046.jpg,11,spoon,train
+data/coco/train2014/COCO_train2014_000000161719.jpg,11,fork,train
+data/coco/train2014/COCO_train2014_000000137788.jpg,11,knife,train
+data/coco/train2014/COCO_train2014_000000265196.jpg,11,fork,train
+data/coco/train2014/COCO_train2014_000000040398.jpg,11,knife,train
+data/coco/train2014/COCO_train2014_000000569775.jpg,11,vase,train
+data/coco/train2014/COCO_train2014_000000567224.jpg,11,spoon,train
+data/coco/train2014/COCO_train2014_000000528892.jpg,12,bowl,train
+data/coco/train2014/COCO_train2014_000000517521.jpg,12,clock,train
+data/coco/train2014/COCO_train2014_000000261664.jpg,12,bowl,train
+data/coco/train2014/COCO_train2014_000000281764.jpg,12,wine glass,train
+data/coco/train2014/COCO_train2014_000000529879.jpg,12,bottle,train
+data/coco/train2014/COCO_train2014_000000266676.jpg,12,clock,train
+data/coco/train2014/COCO_train2014_000000286425.jpg,12,cup,train
+data/coco/train2014/COCO_train2014_000000001319.jpg,12,cup,train
+data/coco/train2014/COCO_train2014_000000252937.jpg,13,surfboard,train
+data/coco/train2014/COCO_train2014_000000550540.jpg,13,frisbee,train
+data/coco/train2014/COCO_train2014_000000444350.jpg,13,frisbee,train
+data/coco/train2014/COCO_train2014_000000264526.jpg,13,skis,train
+data/coco/train2014/COCO_train2014_000000202807.jpg,13,frisbee,train
+data/coco/train2014/COCO_train2014_000000539265.jpg,13,frisbee,train
+data/coco/train2014/COCO_train2014_000000017171.jpg,13,frisbee,train
+data/coco/train2014/COCO_train2014_000000410005.jpg,13,skateboard,train

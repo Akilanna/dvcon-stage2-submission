@@ -1,0 +1,295 @@
+{
+  "manifest": "D:\\DVCON\\data\\competition_multitask_manifest.json",
+  "output_dir": "D:\\DVCON\\data\\cached_features_competition_14task",
+  "total_entries": 140,
+  "cached_entries": 111,
+  "skipped_entries": 29,
+  "failures": [
+    {
+      "index": 7,
+      "task_id": 0,
+      "image_path": "data/coco/train2014/COCO_train2014_000000179570.jpg",
+      "expected_objects": [
+        "chair"
+      ],
+      "error": "No expected object detected; expected=['chair']"
+    },
+    {
+      "index": 11,
+      "task_id": 1,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000109.jpg",
+      "expected_objects": [
+        "chair",
+        "couch",
+        "dining table"
+      ],
+      "error": "No expected object detected; expected=['chair', 'couch', 'dining table']"
+    },
+    {
+      "index": 19,
+      "task_id": 1,
+      "image_path": "data/coco/train2014/COCO_train2014_000000393909.jpg",
+      "expected_objects": [
+        "couch"
+      ],
+      "error": "No expected object detected; expected=['couch']"
+    },
+    {
+      "index": 20,
+      "task_id": 2,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+      "expected_objects": [
+        "vase",
+        "potted plant"
+      ],
+      "error": "No expected object detected; expected=['vase', 'potted plant']"
+    },
+    {
+      "index": 24,
+      "task_id": 2,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+      "expected_objects": [
+        "vase",
+        "potted plant"
+      ],
+      "error": "No expected object detected; expected=['vase', 'potted plant']"
+    },
+    {
+      "index": 25,
+      "task_id": 2,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+      "expected_objects": [
+        "vase",
+        "potted plant"
+      ],
+      "error": "No expected object detected; expected=['vase', 'potted plant']"
+    },
+    {
+      "index": 29,
+      "task_id": 2,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+      "expected_objects": [
+        "vase",
+        "potted plant"
+      ],
+      "error": "No expected object detected; expected=['vase', 'potted plant']"
+    },
+    {
+      "index": 48,
+      "task_id": 4,
+      "image_path": "data/coco/train2014/COCO_train2014_000000311301.jpg",
+      "expected_objects": [
+        "cup"
+      ],
+      "error": "No expected object detected; expected=['cup']"
+    },
+    {
+      "index": 51,
+      "task_id": 5,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+      "expected_objects": [
+        "spoon",
+        "fork",
+        "cup",
+        "bowl"
+      ],
+      "error": "No expected object detected; expected=['spoon', 'fork', 'cup', 'bowl']"
+    },
+    {
+      "index": 56,
+      "task_id": 5,
+      "image_path": "data/coco/train2014/COCO_train2014_000000581668.jpg",
+      "expected_objects": [
+        "fork"
+      ],
+      "error": "No expected object detected; expected=['fork']"
+    },
+    {
+      "index": 57,
+      "task_id": 5,
+      "image_path": "data/coco/train2014/COCO_train2014_000000466519.jpg",
+      "expected_objects": [
+        "spoon"
+      ],
+      "error": "No expected object detected; expected=['spoon']"
+    },
+    {
+      "index": 58,
+      "task_id": 5,
+      "image_path": "data/coco/train2014/COCO_train2014_000000206280.jpg",
+      "expected_objects": [
+        "fork"
+      ],
+      "error": "No expected object detected; expected=['fork']"
+    },
+    {
+      "index": 70,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 71,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 72,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 75,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 76,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 77,
+      "task_id": 7,
+      "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 85,
+      "task_id": 8,
+      "image_path": "data/coco/train2014/COCO_train2014_000000478410.jpg",
+      "expected_objects": [
+        "knife"
+      ],
+      "error": "No expected object detected; expected=['knife']"
+    },
+    {
+      "index": 86,
+      "task_id": 8,
+      "image_path": "data/coco/train2014/COCO_train2014_000000417766.jpg",
+      "expected_objects": [
+        "knife"
+      ],
+      "error": "No expected object detected; expected=['knife']"
+    },
+    {
+      "index": 99,
+      "task_id": 9,
+      "image_path": "data/coco/train2014/COCO_train2014_000000009539.jpg",
+      "expected_objects": [
+        "cup"
+      ],
+      "error": "No expected object detected; expected=['cup']"
+    },
+    {
+      "index": 108,
+      "task_id": 10,
+      "image_path": "data/coco/train2014/COCO_train2014_000000028253.jpg",
+      "expected_objects": [
+        "cup"
+      ],
+      "error": "No expected object detected; expected=['cup']"
+    },
+    {
+      "index": 109,
+      "task_id": 10,
+      "image_path": "data/coco/train2014/COCO_train2014_000000071264.jpg",
+      "expected_objects": [
+        "cup"
+      ],
+      "error": "No expected object detected; expected=['cup']"
+    },
+    {
+      "index": 115,
+      "task_id": 11,
+      "image_path": "data/coco/train2014/COCO_train2014_000000197739.jpg",
+      "expected_objects": [
+        "fork"
+      ],
+      "error": "No expected object detected; expected=['fork']"
+    },
+    {
+      "index": 116,
+      "task_id": 11,
+      "image_path": "data/coco/train2014/COCO_train2014_000000010046.jpg",
+      "expected_objects": [
+        "spoon"
+      ],
+      "error": "No expected object detected; expected=['spoon']"
+    },
+    {
+      "index": 119,
+      "task_id": 11,
+      "image_path": "data/coco/train2014/COCO_train2014_000000265196.jpg",
+      "expected_objects": [
+        "fork"
+      ],
+      "error": "No expected object detected; expected=['fork']"
+    },
+    {
+      "index": 127,
+      "task_id": 12,
+      "image_path": "data/coco/train2014/COCO_train2014_000000529879.jpg",
+      "expected_objects": [
+        "bottle"
+      ],
+      "error": "No expected object detected; expected=['bottle']"
+    },
+    {
+      "index": 128,
+      "task_id": 12,
+      "image_path": "data/coco/train2014/COCO_train2014_000000286425.jpg",
+      "expected_objects": [
+        "cup"
+      ],
+      "error": "No expected object detected; expected=['cup']"
+    },
+    {
+      "index": 135,
+      "task_id": 13,
+      "image_path": "data/coco/train2014/COCO_train2014_000000410005.jpg",
+      "expected_objects": [
+        "skateboard"
+      ],
+      "error": "No expected object detected; expected=['skateboard']"
+    }
+  ],
+  "task_counts": {
+    "0": 10,
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 10,
+    "9": 10,
+    "10": 10,
+    "11": 10,
+    "12": 10,
+    "13": 10
+  }
+}

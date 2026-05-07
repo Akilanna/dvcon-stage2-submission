@@ -1,0 +1,6 @@
+task_id: 3
+task_name: get_potatoes_out_of_fire
+selected_prediction: fork
+confidence: 0.402844
+source_image: data/coco/train2014/COCO_train2014_000000000092.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

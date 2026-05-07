@@ -1,0 +1,6 @@
+task_id: 13
+task_name: pound_carpet
+selected_prediction: tennis racket
+confidence: 0.478592
+source_image: data/coco/train2014/COCO_train2014_000000000431.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

@@ -1,0 +1,6 @@
+task_id: 7
+task_name: open_bottle_of_beer
+selected_prediction: bottle
+confidence: 0.185157
+source_image: data/coco/train2014/COCO_train2014_000000000138.jpg
+why this example was selected: Chosen for direct bottle visibility in scene and believable task alignment for opening beer.

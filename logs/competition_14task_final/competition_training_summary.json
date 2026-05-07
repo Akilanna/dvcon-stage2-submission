@@ -1,0 +1,25 @@
+{
+  "checkpoint_in": "D:\\DVCON\\checkpoints\\task_14_final\\ranker_best.pt",
+  "checkpoint_out": "D:\\DVCON\\checkpoints\\competition_14task_final\\ranker_best.pt",
+  "cache_dir": "D:\\DVCON\\data\\cached_features_competition_14task",
+  "epochs": 5,
+  "best_val_loss": 1.3110919765063695,
+  "train_indices": 126,
+  "val_indices": 14,
+  "task_counts": {
+    "0": 9,
+    "1": 8,
+    "2": 6,
+    "3": 10,
+    "4": 9,
+    "5": 6,
+    "6": 10,
+    "7": 4,
+    "8": 8,
+    "9": 9,
+    "10": 8,
+    "11": 7,
+    "12": 8,
+    "13": 9
+  }
+}

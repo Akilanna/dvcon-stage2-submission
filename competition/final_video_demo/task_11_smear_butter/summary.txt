@@ -1,0 +1,6 @@
+task_id: 11
+task_name: smear_butter
+selected_prediction: knife
+confidence: 0.109383
+source_image: data/coco/train2014/COCO_train2014_000000000113.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

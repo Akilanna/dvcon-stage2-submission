@@ -1,0 +1,1422 @@
+[
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "chair",
+      "bench",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000109.jpg",
+    "expected_objects": [
+      "chair",
+      "bench",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000110.jpg",
+    "expected_objects": [
+      "chair",
+      "bench",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "chair",
+      "bench",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "chair",
+      "bench",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000576993.jpg",
+    "expected_objects": [
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000528892.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000179570.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000403798.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 0,
+    "image_path": "data/coco/train2014/COCO_train2014_000000399181.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "chair",
+      "couch",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000109.jpg",
+    "expected_objects": [
+      "chair",
+      "couch",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000110.jpg",
+    "expected_objects": [
+      "chair",
+      "couch",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "chair",
+      "couch",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "chair",
+      "couch",
+      "dining table"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000528892.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000069383.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000333688.jpg",
+    "expected_objects": [
+      "chair"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000403798.jpg",
+    "expected_objects": [
+      "chair",
+      "couch"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 1,
+    "image_path": "data/coco/train2014/COCO_train2014_000000393909.jpg",
+    "expected_objects": [
+      "couch"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000030.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000049.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000078.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000030.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000049.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000078.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 2,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "vase",
+      "potted plant"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000584.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 3,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000584.jpg",
+    "expected_objects": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000316170.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000010046.jpg",
+    "expected_objects": [
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000111131.jpg",
+    "expected_objects": [
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000311301.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 4,
+    "image_path": "data/coco/train2014/COCO_train2014_000000023917.jpg",
+    "expected_objects": [
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000257615.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000581668.jpg",
+    "expected_objects": [
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000466519.jpg",
+    "expected_objects": [
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000206280.jpg",
+    "expected_objects": [
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 5,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork",
+      "cup",
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000584.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000605.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000853.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000092.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000584.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000605.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 6,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000853.jpg",
+    "expected_objects": [
+      "spoon",
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 7,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000001036.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000001084.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000478410.jpg",
+    "expected_objects": [
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000417766.jpg",
+    "expected_objects": [
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000355779.jpg",
+    "expected_objects": [
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 8,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "scissors",
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "wine glass",
+      "bottle",
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "wine glass",
+      "bottle",
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "wine glass",
+      "bottle",
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "wine glass",
+      "bottle",
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000308.jpg",
+    "expected_objects": [
+      "wine glass",
+      "bottle",
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000050518.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000568393.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000374661.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000097914.jpg",
+    "expected_objects": [
+      "wine glass"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 9,
+    "image_path": "data/coco/train2014/COCO_train2014_000000009539.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "bottle",
+      "cup",
+      "bowl",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000050518.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000185623.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000339295.jpg",
+    "expected_objects": [
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000028253.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 10,
+    "image_path": "data/coco/train2014/COCO_train2014_000000071264.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000089.jpg",
+    "expected_objects": [
+      "knife",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "knife",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "knife",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000584.jpg",
+    "expected_objects": [
+      "knife",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000605.jpg",
+    "expected_objects": [
+      "knife",
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000197739.jpg",
+    "expected_objects": [
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000010046.jpg",
+    "expected_objects": [
+      "spoon"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000161719.jpg",
+    "expected_objects": [
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000137788.jpg",
+    "expected_objects": [
+      "knife"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 11,
+    "image_path": "data/coco/train2014/COCO_train2014_000000265196.jpg",
+    "expected_objects": [
+      "fork"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000009.jpg",
+    "expected_objects": [
+      "fire hydrant",
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000113.jpg",
+    "expected_objects": [
+      "fire hydrant",
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000127.jpg",
+    "expected_objects": [
+      "fire hydrant",
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000138.jpg",
+    "expected_objects": [
+      "fire hydrant",
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000142.jpg",
+    "expected_objects": [
+      "fire hydrant",
+      "bottle",
+      "cup",
+      "bowl",
+      "sink"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000528892.jpg",
+    "expected_objects": [
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000261664.jpg",
+    "expected_objects": [
+      "bowl"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000529879.jpg",
+    "expected_objects": [
+      "bottle"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000286425.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 12,
+    "image_path": "data/coco/train2014/COCO_train2014_000000001319.jpg",
+    "expected_objects": [
+      "cup"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 9
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000322.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 0
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000419.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 1
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000431.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 2
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000531.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 3
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000001204.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 4
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000410005.jpg",
+    "expected_objects": [
+      "skateboard"
+    ],
+    "source": "targeted_task_cases_gold2.csv",
+    "copy_index": 5
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000322.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 6
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000419.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 7
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000431.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 8
+  },
+  {
+    "task_id": 13,
+    "image_path": "data/coco/train2014/COCO_train2014_000000000531.jpg",
+    "expected_objects": [
+      "baseball bat",
+      "tennis racket"
+    ],
+    "source": "targeted_task_cases_gold.csv",
+    "copy_index": 9
+  }
+]

@@ -1,0 +1,33 @@
+# Model configuration for task-aware object selection pipeline
+# DVCon India 2026
+
+# YOLO detector settings
+detector:
+  model: yolov8n  # nano variant for edge deployment
+  confidence_threshold: 0.25
+  iou_threshold: 0.45
+  max_detections: 50
+
+# Feature extractor settings
+feature_extractor:
+  backbone: mobilenetv3_small
+  feature_dim: 256
+  pretrained: true
+
+# Task embedding settings
+task_encoder:
+  embedding_dim: 384  # sentence-transformers default
+  projection_dim: 128
+  model_name: all-MiniLM-L6-v2
+
+# Ranking network settings
+ranking_network:
+  input_dim: 384  # feature_dim + projection_dim (256 + 128)
+  hidden_dims: [256, 128]
+  dropout: 0.3
+  output_dim: 1
+
+# Context pooling settings
+context_module:
+  pool_method: mean  # mean | max | attention
+  use_spatial: true

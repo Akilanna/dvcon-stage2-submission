@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime caches/logs
+*.log
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/

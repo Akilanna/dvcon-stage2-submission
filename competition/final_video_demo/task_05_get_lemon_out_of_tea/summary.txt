@@ -1,0 +1,6 @@
+task_id: 5
+task_name: get_lemon_out_of_tea
+selected_prediction: bowl
+confidence: 0.471720
+source_image: data/coco/train2014/COCO_train2014_000000581668.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

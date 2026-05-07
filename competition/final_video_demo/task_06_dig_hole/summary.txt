@@ -1,0 +1,6 @@
+task_id: 6
+task_name: dig_hole
+selected_prediction: spoon
+confidence: 0.154419
+source_image: data/coco/train2014/COCO_train2014_000000000605.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

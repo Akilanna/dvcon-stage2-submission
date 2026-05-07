@@ -1,0 +1,15 @@
+# DVCon India 2026 — Task-Aware Object Selection Pipeline
+# Core ML
+torch
+torchvision
+ultralytics
+onnx
+onnxruntime
+sentence-transformers
+
+# Data & compute
+numpy
+opencv-python
+tqdm
+pyyaml
+scikit-learn

@@ -1,0 +1,57 @@
+task_id,image_path,prediction,confidence,rejected,allowed_prediction,runtime_ok,output_png
+0,data/coco/train2014/COCO_train2014_000000000092.jpg,dining table,0.25966203212738037,False,dining table,True,D:\DVCON\competition\demo_outputs\task00_000.png
+0,data/coco/train2014/COCO_train2014_000000000109.jpg,bench,0.1461281031370163,True,,True,D:\DVCON\competition\demo_outputs\task00_001.png
+0,data/coco/train2014/COCO_train2014_000000000110.jpg,chair,0.08349639922380447,True,,True,D:\DVCON\competition\demo_outputs\task00_002.png
+0,data/coco/train2014/COCO_train2014_000000000113.jpg,chair,0.09262238442897797,True,,True,D:\DVCON\competition\demo_outputs\task00_003.png
+1,data/coco/train2014/COCO_train2014_000000000092.jpg,dining table,0.2601773738861084,False,dining table,True,D:\DVCON\competition\demo_outputs\task01_004.png
+1,data/coco/train2014/COCO_train2014_000000000109.jpg,boat,0.00017529544129502028,True,,True,D:\DVCON\competition\demo_outputs\task01_005.png
+1,data/coco/train2014/COCO_train2014_000000000110.jpg,chair,0.08362345397472382,True,,True,D:\DVCON\competition\demo_outputs\task01_006.png
+1,data/coco/train2014/COCO_train2014_000000000113.jpg,chair,0.0926765725016594,True,,True,D:\DVCON\competition\demo_outputs\task01_007.png
+2,data/coco/train2014/COCO_train2014_000000000009.jpg,bowl,0.0002581828448455781,True,,True,D:\DVCON\competition\demo_outputs\task02_008.png
+2,data/coco/train2014/COCO_train2014_000000000030.jpg,vase,0.5900944471359253,False,vase,True,D:\DVCON\competition\demo_outputs\task02_009.png
+2,data/coco/train2014/COCO_train2014_000000000049.jpg,potted plant,0.13241033256053925,False,potted plant,True,D:\DVCON\competition\demo_outputs\task02_010.png
+2,data/coco/train2014/COCO_train2014_000000000078.jpg,vase,0.390195369720459,False,vase,True,D:\DVCON\competition\demo_outputs\task02_011.png
+3,data/coco/train2014/COCO_train2014_000000000089.jpg,knife,0.09562987834215164,True,,True,D:\DVCON\competition\demo_outputs\task03_012.png
+3,data/coco/train2014/COCO_train2014_000000000092.jpg,fork,0.40284428000450134,False,fork,True,D:\DVCON\competition\demo_outputs\task03_013.png
+3,data/coco/train2014/COCO_train2014_000000000113.jpg,knife,0.09639226645231247,True,,True,D:\DVCON\competition\demo_outputs\task03_014.png
+3,data/coco/train2014/COCO_train2014_000000000127.jpg,spoon,0.11888809502124786,True,,True,D:\DVCON\competition\demo_outputs\task03_015.png
+4,data/coco/train2014/COCO_train2014_000000000009.jpg,bowl,0.25961339473724365,True,,True,D:\DVCON\competition\demo_outputs\task04_016.png
+4,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.27089059352874756,False,cup,True,D:\DVCON\competition\demo_outputs\task04_017.png
+4,data/coco/train2014/COCO_train2014_000000000127.jpg,cup,0.1984676867723465,False,cup,True,D:\DVCON\competition\demo_outputs\task04_018.png
+4,data/coco/train2014/COCO_train2014_000000000138.jpg,bottle,0.26512619853019714,False,bottle,True,D:\DVCON\competition\demo_outputs\task04_019.png
+5,data/coco/train2014/COCO_train2014_000000000009.jpg,bowl,0.2576409876346588,True,,True,D:\DVCON\competition\demo_outputs\task05_020.png
+5,data/coco/train2014/COCO_train2014_000000000089.jpg,microwave,0.00010357099381508306,True,,True,D:\DVCON\competition\demo_outputs\task05_021.png
+5,data/coco/train2014/COCO_train2014_000000000092.jpg,fork,0.40244436264038086,False,fork,True,D:\DVCON\competition\demo_outputs\task05_022.png
+5,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.2669667899608612,False,cup,True,D:\DVCON\competition\demo_outputs\task05_023.png
+6,data/coco/train2014/COCO_train2014_000000000092.jpg,fork,0.4027103781700134,False,fork,True,D:\DVCON\competition\demo_outputs\task06_024.png
+6,data/coco/train2014/COCO_train2014_000000000127.jpg,spoon,0.11932142823934555,True,,True,D:\DVCON\competition\demo_outputs\task06_025.png
+6,data/coco/train2014/COCO_train2014_000000000584.jpg,spoon,0.08680969476699829,True,,True,D:\DVCON\competition\demo_outputs\task06_026.png
+6,data/coco/train2014/COCO_train2014_000000000605.jpg,spoon,0.15441948175430298,False,spoon,True,D:\DVCON\competition\demo_outputs\task06_027.png
+7,data/coco/train2014/COCO_train2014_000000000089.jpg,microwave,0.00012341912952251732,True,,True,D:\DVCON\competition\demo_outputs\task07_028.png
+7,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.29026558995246887,False,cup,True,D:\DVCON\competition\demo_outputs\task07_029.png
+7,data/coco/train2014/COCO_train2014_000000000127.jpg,cup,0.21284997463226318,False,cup,True,D:\DVCON\competition\demo_outputs\task07_030.png
+7,data/coco/train2014/COCO_train2014_000000000138.jpg,bottle,0.1851568967103958,False,bottle,True,D:\DVCON\competition\demo_outputs\task07_031.png
+8,data/coco/train2014/COCO_train2014_000000000089.jpg,knife,0.09109645336866379,True,,True,D:\DVCON\competition\demo_outputs\task08_032.png
+8,data/coco/train2014/COCO_train2014_000000000113.jpg,knife,0.10909821093082428,False,knife,True,D:\DVCON\competition\demo_outputs\task08_033.png
+8,data/coco/train2014/COCO_train2014_000000000127.jpg,knife,0.08243594318628311,True,,True,D:\DVCON\competition\demo_outputs\task08_034.png
+8,data/coco/train2014/COCO_train2014_000000001036.jpg,knife,0.23440957069396973,False,knife,True,D:\DVCON\competition\demo_outputs\task08_035.png
+9,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.26781532168388367,False,cup,True,D:\DVCON\competition\demo_outputs\task09_036.png
+9,data/coco/train2014/COCO_train2014_000000000127.jpg,cup,0.1961999535560608,False,cup,True,D:\DVCON\competition\demo_outputs\task09_037.png
+9,data/coco/train2014/COCO_train2014_000000000138.jpg,bottle,0.2635663151741028,False,bottle,True,D:\DVCON\competition\demo_outputs\task09_038.png
+9,data/coco/train2014/COCO_train2014_000000000142.jpg,bottle,0.19790181517601013,True,,True,D:\DVCON\competition\demo_outputs\task09_039.png
+10,data/coco/train2014/COCO_train2014_000000000009.jpg,bowl,0.2574603855609894,True,,True,D:\DVCON\competition\demo_outputs\task10_040.png
+10,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.2664804756641388,False,cup,True,D:\DVCON\competition\demo_outputs\task10_041.png
+10,data/coco/train2014/COCO_train2014_000000000127.jpg,cup,0.19489876925945282,False,cup,True,D:\DVCON\competition\demo_outputs\task10_042.png
+10,data/coco/train2014/COCO_train2014_000000000138.jpg,bottle,0.2633138597011566,False,bottle,True,D:\DVCON\competition\demo_outputs\task10_043.png
+11,data/coco/train2014/COCO_train2014_000000000089.jpg,knife,0.0911879912018776,True,,True,D:\DVCON\competition\demo_outputs\task11_044.png
+11,data/coco/train2014/COCO_train2014_000000000113.jpg,knife,0.10938304662704468,False,knife,True,D:\DVCON\competition\demo_outputs\task11_045.png
+11,data/coco/train2014/COCO_train2014_000000000127.jpg,spoon,0.11538732796907425,True,,True,D:\DVCON\competition\demo_outputs\task11_046.png
+11,data/coco/train2014/COCO_train2014_000000000584.jpg,spoon,0.08767800778150558,True,,True,D:\DVCON\competition\demo_outputs\task11_047.png
+12,data/coco/train2014/COCO_train2014_000000000009.jpg,bowl,0.258418470621109,True,,True,D:\DVCON\competition\demo_outputs\task12_048.png
+12,data/coco/train2014/COCO_train2014_000000000113.jpg,cup,0.26835882663726807,False,cup,True,D:\DVCON\competition\demo_outputs\task12_049.png
+12,data/coco/train2014/COCO_train2014_000000000127.jpg,cup,0.1964907944202423,False,cup,True,D:\DVCON\competition\demo_outputs\task12_050.png
+12,data/coco/train2014/COCO_train2014_000000000138.jpg,bottle,0.2643354535102844,False,bottle,True,D:\DVCON\competition\demo_outputs\task12_051.png
+13,data/coco/train2014/COCO_train2014_000000000322.jpg,baseball bat,0.31046655774116516,False,baseball bat,True,D:\DVCON\competition\demo_outputs\task13_052.png
+13,data/coco/train2014/COCO_train2014_000000000419.jpg,tennis racket,0.34755563735961914,True,,True,D:\DVCON\competition\demo_outputs\task13_053.png
+13,data/coco/train2014/COCO_train2014_000000000431.jpg,tennis racket,0.4785920977592468,False,tennis racket,True,D:\DVCON\competition\demo_outputs\task13_054.png
+13,data/coco/train2014/COCO_train2014_000000000531.jpg,tennis racket,0.1668679267168045,False,tennis racket,True,D:\DVCON\competition\demo_outputs\task13_055.png

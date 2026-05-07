@@ -1,0 +1,6 @@
+task_id: 1
+task_name: sit
+selected_prediction: chair
+confidence: 0.322503
+source_image: data/coco/train2014/COCO_train2014_000000393909.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

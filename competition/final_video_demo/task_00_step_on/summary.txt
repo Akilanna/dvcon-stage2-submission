@@ -1,0 +1,6 @@
+task_id: 0
+task_name: step_on
+selected_prediction: chair
+confidence: 0.282317
+source_image: data/coco/train2014/COCO_train2014_000000399181.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

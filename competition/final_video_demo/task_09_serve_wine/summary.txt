@@ -1,0 +1,6 @@
+task_id: 9
+task_name: serve_wine
+selected_prediction: cup
+confidence: 0.196200
+source_image: data/coco/train2014/COCO_train2014_000000000127.jpg
+why this example was selected: Chosen as a different verified serving scene with clear drinkware and cleaner presentation framing.

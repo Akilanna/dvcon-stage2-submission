@@ -1,0 +1,15 @@
+task_id,task_name,image_path,annotated_path,prediction,confidence
+0,step_on,data/coco/train2014/COCO_train2014_000000399181.jpg,competition/final_video_demo/task_00_step_on/annotated.png,chair,0.282317
+1,sit,data/coco/train2014/COCO_train2014_000000393909.jpg,competition/final_video_demo/task_01_sit/annotated.png,chair,0.322503
+2,place_flowers,data/coco/train2014/COCO_train2014_000000000030.jpg,competition/final_video_demo/task_02_place_flowers/annotated.png,vase,0.590094
+3,get_potatoes_out_of_fire,data/coco/train2014/COCO_train2014_000000000092.jpg,competition/final_video_demo/task_03_get_potatoes_out_of_fire/annotated.png,fork,0.402844
+4,water_plant,data/coco/train2014/COCO_train2014_000000111131.jpg,competition/final_video_demo/task_04_water_plant/annotated.png,bowl,0.386830
+5,get_lemon_out_of_tea,data/coco/train2014/COCO_train2014_000000581668.jpg,competition/final_video_demo/task_05_get_lemon_out_of_tea/annotated.png,bowl,0.471720
+6,dig_hole,data/coco/train2014/COCO_train2014_000000000605.jpg,competition/final_video_demo/task_06_dig_hole/annotated.png,spoon,0.154419
+7,open_bottle_of_beer,data/coco/train2014/COCO_train2014_000000000138.jpg,competition/final_video_demo/task_07_open_bottle_of_beer/annotated.png,bottle,0.185157
+8,open_parcel,data/coco/train2014/COCO_train2014_000000001036.jpg,competition/final_video_demo/task_08_open_parcel/annotated.png,knife,0.234410
+9,serve_wine,data/coco/train2014/COCO_train2014_000000000127.jpg,competition/final_video_demo/task_09_serve_wine/annotated.png,cup,0.196200
+10,pour_sugar,data/coco/train2014/COCO_train2014_000000185623.jpg,competition/final_video_demo/task_10_pour_sugar/annotated.png,bottle,0.460498
+11,smear_butter,data/coco/train2014/COCO_train2014_000000000113.jpg,competition/final_video_demo/task_11_smear_butter/annotated.png,knife,0.109383
+12,extinguish_fire,data/coco/train2014/COCO_train2014_000000261664.jpg,competition/final_video_demo/task_12_extinguish_fire/annotated.png,bowl,0.453215
+13,pound_carpet,data/coco/train2014/COCO_train2014_000000000431.jpg,competition/final_video_demo/task_13_pound_carpet/annotated.png,tennis racket,0.478592

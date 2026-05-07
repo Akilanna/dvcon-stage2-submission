@@ -1,0 +1,6 @@
+task_id: 2
+task_name: place_flowers
+selected_prediction: vase
+confidence: 0.590094
+source_image: data/coco/train2014/COCO_train2014_000000000030.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

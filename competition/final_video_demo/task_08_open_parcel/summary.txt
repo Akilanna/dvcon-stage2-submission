@@ -1,0 +1,6 @@
+task_id: 8
+task_name: open_parcel
+selected_prediction: knife
+confidence: 0.234410
+source_image: data/coco/train2014/COCO_train2014_000000001036.jpg
+why this example was selected: Chosen because the tool is clearly a knife and the output is direct for opening a parcel.

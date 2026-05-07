@@ -1,0 +1,6 @@
+task_id: 12
+task_name: extinguish_fire
+selected_prediction: bowl
+confidence: 0.453215
+source_image: data/coco/train2014/COCO_train2014_000000261664.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.

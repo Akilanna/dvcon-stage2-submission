@@ -1,0 +1,22 @@
+GOLD CASES BUILD SUMMARY
+====================================
+Timestamp: 2026-04-27T10:36:38.350596
+Annotation dir: data/annotations
+Per-task target: 8
+Total cases written: 112
+Output CSV: targeted_task_cases_gold2.csv
+
+Task 00: 8 cases
+Task 01: 8 cases
+Task 02: 8 cases
+Task 03: 8 cases
+Task 04: 8 cases
+Task 05: 8 cases
+Task 06: 8 cases
+Task 07: 8 cases
+Task 08: 8 cases
+Task 09: 8 cases
+Task 10: 8 cases
+Task 11: 8 cases
+Task 12: 8 cases
+Task 13: 8 cases

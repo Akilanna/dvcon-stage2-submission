@@ -1,0 +1,6 @@
+task_id: 10
+task_name: pour_sugar
+selected_prediction: bottle
+confidence: 0.460498
+source_image: data/coco/train2014/COCO_train2014_000000185623.jpg
+why this example was selected: Selected as highest-confidence believable non-rejected candidate for this task while preserving global scene uniqueness and annotation clarity.
