@@ -1,0 +1,10 @@
+=========================================================================
+DVCon India 2026 Design Contest — Git Repository Details
+=========================================================================
+Repository URL : https://github.com/Akilanna/dvcon-stage2-submission.git
+Active Branch  : master
+Latest Commit  : a9db592c5cd0eab9926b2e11453e65c9f7f7e914
+Commit Date    : Mon Jun 29 17:39:19 2026 +0530
+Committer      : Akilanna <naakilan67@gmail.com>
+Commit Message : Submit Stage 2B Design, Testbench, Makefile, and Technical Report
+=========================================================================
